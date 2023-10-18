@@ -1,0 +1,1 @@
+print([True if i.split(' ') == set(i.split(' ')) else False for i in list(input())])
